@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "mohadeseh sa"
-  avatar           : "images.jpg"
+  avatar           : "/assets/images/3.jpg"  
   bio              : ofc not the best student!
   location         : "تهران"
   email            : mohadeseh@gmail.com
