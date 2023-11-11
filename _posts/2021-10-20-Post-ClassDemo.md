@@ -1,23 +1,22 @@
 ---
 layout: posts
-title: مصاحبه با آقای بیات‌خانی
+title: مصاحبه با آقای اعتمادی
 ---
 
-## This is my team at Microsoft
+## This is our professor team at Microsoft
 People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+- E
+- F
+- G
+- H
 
-[my favorite website](http://www.google.com)
+[ website](https://www.netflix.com/)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+This is our professor, Mr.Etemadi with his workmates
 
 
 
 ![alt text](../assets/images/grouppic.jpg "Team Picture")
 
 ---
-**Test**: This is atest
+**Test**: This is a test

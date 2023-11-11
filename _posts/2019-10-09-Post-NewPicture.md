@@ -10,7 +10,7 @@ People in the picture are:
 - Scott
 - Me
 
-[my favorite website](http://www.google.com)
+[my favorite website](https://www.netflix.com/)
 
 kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
 kfajdskfajsdf sakd fjksad jfksdj fksdj f
