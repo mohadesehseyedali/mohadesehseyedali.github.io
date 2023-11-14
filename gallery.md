@@ -29,5 +29,5 @@ gallery:
     title: "Image 5 title caption"    
 ---
 
-{% include gallery caption="This are some nice pics which have been here and I still want to keep them **Markdown support**." %}
+{% include gallery caption="This are some nice pics which have been here and I still want to keep them." %}
 
