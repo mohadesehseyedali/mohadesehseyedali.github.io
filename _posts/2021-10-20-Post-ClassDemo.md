@@ -4,7 +4,7 @@ title: our professor
 ---
 
 
-This is thr picture of our professor, Mr.Etemadi with his team at microsoft
+This is the picture of our professor, Mr.Etemadi with his team at microsoft
 
 
 
