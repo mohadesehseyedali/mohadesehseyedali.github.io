@@ -1,8 +1,7 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: about me
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+I'm Mohadeseh and I'm 18 
+I study computer engineering at IUST 
