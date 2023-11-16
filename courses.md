@@ -11,7 +11,7 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2023|Fall  |* [kargah-1] (https://compiustacir.sharepoint.com/:v:/s/FC02031/ERHrjOrspIpKg98ozaSfQY4BzbBSS6yN5ePpGcIZQ8WIxg?e=LujJgc)      |
+|2023|Fall  | **<a href="(https://compiustacir.sharepoint.com/:v:/s/FC02031/ERHrjOrspIpKg98ozaSfQY4BzbBSS6yN5ePpGcIZQ8WIxg?e=LujJgc)">kargah-1</a>** |
 |----|------|--------------------------------|
 |2023|Fall  | **<a href="https://compiustacir.sharepoint.com/:v:/s/FC02031/EV1UPNX6JnJJu0Ip7GOFzRoBH8iRPmz2JhyLi3pKv7bMBA?e=EWzz7t">mabani-2</a>** |
 |----|------|--------------------------------|
