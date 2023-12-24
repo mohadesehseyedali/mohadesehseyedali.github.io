@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: semestrs
+title: Semestrs
 ---
 <html lang="en">
 <head>
