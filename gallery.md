@@ -7,27 +7,27 @@ tags: [gallery]
 modified: 10-14-2023
 comments: false
 gallery:
-  - url: /assets/images/1.jpg
-    image_path: /assets/images/1.jpg
+  - url: /assets/images/aesthetic waterfall with purple glitter water at night.jpg
+    image_path: /assets/images/aesthetic waterfall with purple glitter water at night.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/2.jpg
-    image_path: /assets/images/2.jpg
+    title: "aesthetic waterfall with purple glitter water at night"
+  - url: /assets/images/A close-up of a red maple leaf.jpg
+    image_path: /assets/images/A close-up of a red maple leaf.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/3.jpg
-    image_path: /assets/images/3.jpg
+    title: "A close-up of a red maple leaf"
+  - url: /assets/images/an owl with foxtail in ocean.jpg
+    image_path: /assets/images/an owl with foxtail in ocean.jpg
     alt: "placeholder image 3"
-    title: "Image 3 title caption"  
-  - url: /assets/images/4.jpg
-    image_path: /assets/images/4.jpg
+    title: "an owl with foxtail in ocean"  
+  - url: /assets/images/human bowing to robot.jpg
+    image_path: /assets/images/human bowing to robot.jpg
     alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/5.jpg
-    image_path: /assets/images/5.jpg
+    title: "human bowing to robot"
+  - url: /assets/images/group of robots working on an unconscious human in laboratory.jpg
+    image_path: /assets/images/group of robots working on an unconscious human in laboratory.jpg
     alt: "placeholder image 5"
-    title: "Image 5 title caption"    
+    title: "group of robots working on an unconscious human in laboratory"    
 ---
 
-{% include gallery caption="These are some nice pics which have been here and I still want to keep them." %}
+{% include gallery caption="Pics which are created by AI" %}
 
