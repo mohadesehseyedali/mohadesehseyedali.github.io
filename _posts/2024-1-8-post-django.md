@@ -13,7 +13,7 @@ title: Django project
 
 * [Bootstrap](https://getbootstrap.com/)
 
-![Alt text](C:\git\personal_website_template\assets\images\django.png "صفحه اول سایت")
+![Alt text](.../assets/images/django.png "صفحه اول سایت")
 
 
 ---
