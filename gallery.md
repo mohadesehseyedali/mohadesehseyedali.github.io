@@ -23,9 +23,13 @@ gallery:
     image_path: /assets/images/human bowing to robot.jpg
     alt: "placeholder image 4"
     title: "human bowing to robot"
+  - url: /assets/images/humanity being replaced with robots.jpg
+    image_path: /assets/images/humanity being replaced with robots.jpg
+    alt: "placeholder image 5"
+    title: "humanity being replaced with robots"    
   - url: /assets/images/group of robots working on an unconscious human in laboratory.jpg
     image_path: /assets/images/group of robots working on an unconscious human in laboratory.jpg
-    alt: "placeholder image 5"
+    alt: "placeholder image 6"
     title: "group of robots working on an unconscious human in laboratory"    
 ---
 
