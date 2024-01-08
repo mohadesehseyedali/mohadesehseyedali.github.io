@@ -1,17 +1,17 @@
 # main links
 main:
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
   - title: "Courses"
     url: /courses/
   - title: "Calendar"
     url: /calendar/
   - title: "Friends"
     url: /friends/
-  - title: "Links"
-    url: /links/
-  - title: "Hobbies"
-    url: /hobbies/  
+  #- title: "Links"
+  #  url: /links/
+  #- title: "Hobbies"
+  #  url: /hobbies/  
   - title: "Gallery"
     url: /gallery/
   - title: "Blog"
